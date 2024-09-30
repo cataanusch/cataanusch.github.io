@@ -17,7 +17,7 @@ var layout = {
     showlegend: false,
     xaxis: { title: 'Canciones' },
     yaxis: {
-        title: 'Total de reproducciones (en MM)',
+        title: 'Total de reproducciones (en M)',
         range: [0, 500],
         dtick: 50,
         zeroline: false,
